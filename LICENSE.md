@@ -1,4 +1,4 @@
-
+new Preset for Adobe InDesign for macOS - real-time preview and shortcut customization offers the most advanced Adobe InDesign for macOS preset, with real-time preview and
 
 
 
